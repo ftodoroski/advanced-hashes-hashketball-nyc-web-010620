@@ -291,7 +291,7 @@ def long_name_steals_a_ton?
 end
 
 # Next time there is a Lab this long
-  # Make cleaner code by using helper methods if possible
+  # Make cleaner code by using helper methods if possible 
   # Felt like i was reusing bunch of the same code especially the each
   # Put comments that describe what the code does but short ones
   # rewrite the conditinals that can be made in to statement modifiesr like in methods long_name_steals_a_ton?, player_with_longest_name
